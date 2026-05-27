@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Finder",
+  "description": "Search and discover local restaurants, browse signature menus, filter by cuisine, and toggle favorites in a modern Material 3 interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
